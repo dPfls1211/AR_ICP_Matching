@@ -8,7 +8,7 @@ AR에서 객체의 증강 위치를 효율적으로 보간하기 위한 새로�
 <br>진행기간 2020/11/18 - 2022/06/22
 <br><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=orange">
 
 <aside>
 📢 2022년 제 66차  한국컴퓨터 정보학회에 제출한 연구이며, 주 저자 입니다. 
