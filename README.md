@@ -2,8 +2,10 @@
 
 해당 프로젝트는 Unity로 제작되었으나, 용량의 문제로 해당 프로젝트를 진행하면서 사용했던 스크립트 위주로 올렸습니다.
 
-### 논문 제목 : AR에서 객체의 증강 위치를 효율적으로 보간하기 위한 새로운 ICP 매칭
+## 논문 제목 : AR에서 객체의 증강 위치를 효율적으로 보간하기 위한 새로운 ICP 매칭
 
 AR에서 객체의 증강 위치를 효율적으로 보간하기 위한 새로운 ICP 매칭 알고리즘 제안
 진행기간 2021/12/29 - 2022/06/22
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
