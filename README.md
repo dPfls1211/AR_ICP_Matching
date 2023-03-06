@@ -16,6 +16,10 @@ Unity AR 상에서 Point Cloud를 효율적으로 매칭하여 증강하기 위�
 
 </aside>
 
+
+![image](https://user-images.githubusercontent.com/76572665/223187079-ce789565-c102-41a2-9f22-ed28f4e8bbf5.png)
+
+
 - **문제 :**
     - 마커 검출 방식은 사전에 마커를 지정할 수 없는 경우에는 사용이 어렵지만, 마커리스는 불안정하여 대부분 평면 검출이나 페이스 검출을 사용합니다.
 - **솔루션 :**
